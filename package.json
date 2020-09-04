@@ -13,7 +13,7 @@
   "author": "Tobi Samuel",
   "license": "MIT",
   "dependencies": {
-    "node-sass": "^4.12.0"
+    "node-sass": "^4.13.1"
   },
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.9.0"
